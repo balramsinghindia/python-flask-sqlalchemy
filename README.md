@@ -5,6 +5,9 @@ Flask SQL Alchemy  is an extension for Flask that adds support for SQLAlchemy to
 
 # Refernce:
 http://flask-sqlalchemy.pocoo.org/2.3/
+
 http://flask-sqlalchemy.pocoo.org/2.3/quickstart/#a-minimal-application
+
 http://flask-sqlalchemy.pocoo.org/2.3/queries/#querying-records
+
 https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/
