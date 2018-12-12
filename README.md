@@ -11,3 +11,8 @@ http://flask-sqlalchemy.pocoo.org/2.3/quickstart/#a-minimal-application
 http://flask-sqlalchemy.pocoo.org/2.3/queries/#querying-records
 
 https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/
+
+
+
+# Expose REST API using Flask and SQL Alhemy
+http://www.bradcypert.com/writing-a-restful-api-in-flask-sqlalchemy/
